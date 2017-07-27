@@ -1,4 +1,3 @@
 <?php
-  $msg = "Hellow";
-  echo $msg;
-  var_dump($msg); 
+ define("MY_EMAIL","hoge@hoge.com");
+ echo MY_EMAIL;

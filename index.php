@@ -17,3 +17,9 @@ $a--;
 
 var_dump($z);
 var_dump($a);
+
+$f_name = "first_name";
+$l_name = "last_name";
+
+$full_name =  $f_name.$l_name;
+var_dump($full_name);
